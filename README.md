@@ -23,8 +23,8 @@ Ce projet vise à **prédire la demande des produits** afin d'améliorer la gest
 3. **Exécute les cellules pour voir les résultats et les prédictions**  
 
 ## 👩‍💻 Auteur
-👤 *Projet développé par **Ayah Afriq*** 🚀  
-📧 Contact : [Ton Email ou LinkedIn]  
+👤 *Projet développé par **Aya frik*** 🚀  
+📧 Contact : aya.frik.2023@gmail.com
 🔗 **Lien du projet GitHub** : [https://github.com/frikaya12/Predict-Sales-ML](https://github.com/frikaya12/Predict-Sales-ML)  
 
 
